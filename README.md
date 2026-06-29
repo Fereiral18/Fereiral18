@@ -1,24 +1,18 @@
-````markdown
 <div align="center">
 
-# Luis Fereira
+# Luis Ferreira
 
-### Full Stack Developer · TypeScript · React · Node.js
+### Full Stack Software Engineer
 
-> **Construyendo productos digitales escalables, seguros y centrados en la experiencia del usuario.**
+Desarrollo aplicaciones web modernas enfocadas en escalabilidad, arquitectura limpia y una excelente experiencia de usuario.
+
+Actualmente trabajo principalmente con **React, Next.js, TypeScript, Node.js, NestJS y PostgreSQL**, construyendo productos completos desde el frontend hasta el despliegue en la nube.
 
 <br>
 
-<p>
-  <a href="https://github.com/Fereiral">
-    <img src="https://img.shields.io/badge/GitHub-Fereiral-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Luis_Fereira-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Arquitectura+Moderna;Fintech+%7C+TypeScript+%7C+React+%7C+Node.js;Aprendizaje+Continuo" />
+[LinkedIn](https://linkedin.com/in/TU-LINKEDIN) •
+[Portfolio](https://TU-PORTFOLIO.com) •
+[Email](mailto:tuemail@email.com)
 
 </div>
 
@@ -26,226 +20,184 @@
 
 # Sobre mí
 
-Soy desarrollador **Full Stack** enfocado en construir aplicaciones modernas utilizando un enfoque orientado a **producto**, donde la experiencia del usuario, la escalabilidad y la calidad del código tienen la misma importancia.
+Soy desarrollador Full Stack con especial interés en el diseño de software, la arquitectura backend y la construcción de productos escalables.
 
-Mi crecimiento comenzó con HTML, CSS y JavaScript, evolucionando hacia el desarrollo de aplicaciones empresariales utilizando **TypeScript**, donde actualmente participo en el desarrollo de soluciones **Fintech**.
+Me gusta trabajar en proyectos donde la calidad del código sea tan importante como la experiencia del usuario, aplicando principios de Clean Architecture, modularización y buenas prácticas de desarrollo.
 
-Me interesa especialmente el diseño de arquitecturas limpias, la reutilización de componentes y la creación de sistemas fáciles de mantener.
+Actualmente continúo profundizando en:
 
----
-
-# Actualmente
-
-🚀 Desarrollando **LatamPay**, una billetera digital multimoneda.
-
-Actualmente trabajo en funcionalidades como:
-
-- Autenticación segura
-- Wallets multimoneda
-- Transferencias
-- Conversión de divisas
-- Dashboard analítico
-- Notificaciones mediante AWS
-- APIs REST
-- Interfaces Responsive
-- Validaciones con Zod
+- Arquitectura de Software
+- Microservicios
+- Docker
+- Kubernetes
+- CI/CD
+- Testing
+- Cloud Computing
 
 ---
 
-# Arquitectura
-
-```text
-                     Frontend
-
-          React + TypeScript + TailwindCSS
-                       │
-               Componentes Reutilizables
-                       │
-                  React Router
-                       │
-                  Validaciones
-                     (Zod)
-                       │
-──────────────────── REST API ────────────────────
-                       │
-             Node.js + Express + TypeScript
-                       │
-             Autenticación mediante JWT
-                       │
-              Servicios de Negocio
-                       │
-              Base de Datos Relacional
-                       │
-──────────────── Infraestructura ────────────────
-          AWS SES · Railway · Vercel
-````
-
----
-
-# Proyecto Destacado
-
-## 💳 LatamPay
-
-Una plataforma Fintech enfocada en simplificar la gestión de dinero entre distintos países de Latinoamérica.
-
-### Características
-
-✔ Registro e inicio de sesión
-
-✔ Wallets virtuales
-
-✔ Transferencias
-
-✔ Conversión de monedas
-
-✔ Historial de movimientos
-
-✔ Dashboard con métricas
-
-✔ Notificaciones por correo
-
-✔ Seguridad mediante JWT
-
-✔ Validaciones de datos
-
-✔ Diseño Responsive
-
----
-
-# Stack Tecnológico
-
-<table>
-<tr>
-<td>
+# Stack Principal
 
 ### Frontend
 
-* React
-* TypeScript
-* TailwindCSS
-* React Router
-* Framer Motion
-* Zod
-
-</td>
-
-<td>
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- React Router
+- Zod
 
 ### Backend
 
-* Node.js
-* Express
-* TypeScript
-* JWT
-* REST API
+- Node.js
+- Express
+- NestJS
+- REST APIs
+- JWT Authentication
+- Bcrypt
+- Zod Validation
 
-</td>
+### Base de Datos
 
-<td>
+- PostgreSQL
 
-### Cloud
+### Cloud & Deploy
 
-* AWS SES
-* Railway
-* Vercel
-* GitHub
+- AWS SES
+- Railway
+- Vercel
 
-</td>
-</tr>
-</table>
+### Herramientas
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Figma
 
 ---
 
 # Filosofía de Desarrollo
 
-```javascript
-const developer = {
-    enfoque: "Resolver problemas",
-    arquitectura: "Escalable",
-    prioridad: "Experiencia del Usuario",
-    codigo: "Limpio y mantenible",
-    aprendizaje: "Constante",
-    objetivo: "Crear productos de calidad"
-}
+```text
+✔ Clean Architecture
+
+✔ Modular Design
+
+✔ SOLID Principles
+
+✔ RESTful APIs
+
+✔ DTO Validation
+
+✔ Authentication & Authorization
+
+✔ Component Driven Development
+
+✔ Responsive Design
+
+✔ Performance First
+
+✔ Developer Experience
 ```
 
 ---
 
-# Actividad
+# Proyectos Destacados
 
-<div align="center">
+## Wallet Multimoneda
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fereiral&show_icons=true&hide_border=true&theme=transparent"/>
+Aplicación Full Stack diseñada para administrar cuentas digitales y realizar transferencias entre diferentes monedas.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fereiral&layout=compact&hide_border=true&theme=transparent"/>
+### Funcionalidades
 
-</div>
+- Registro y autenticación segura
+- Login con JWT
+- Gestión de cuentas
+- Transferencias entre usuarios
+- Conversión de divisas
+- Historial de movimientos
+- Dashboard Analytics
+- Métricas
+- Validaciones con Zod
+- Envío de correos mediante AWS SES
+
+### Stack
+
+```text
+React
+TypeScript
+TailwindCSS
+Node.js
+Express
+PostgreSQL
+AWS SES
+Railway
+Vercel
+```
 
 ---
 
-<div align="center">
+## Dashboard Analytics
 
-<img src="https://streak-stats.demolab.com?user=Fereiral&theme=transparent&hide_border=true"/>
+Dashboard administrativo orientado al análisis de métricas en tiempo real.
 
-</div>
+### Características
 
----
-
-# Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fereiral&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fereiral&theme=flat&no-frame=true&row=1&column=6"/>
-
-</div>
+- KPIs
+- Gráficos dinámicos
+- Responsive
+- Framer Motion
+- Componentes reutilizables
+- Diseño moderno
 
 ---
 
 # Actualmente aprendiendo
 
-* Arquitectura de Software
-* Patrones de Diseño
-* Clean Architecture
-* Testing
-* Docker
-* CI/CD
-* Cloud Computing
+```text
+NestJS Avanzado
 
----
+Docker
 
-# Contacto
+Kubernetes
 
-<div align="center">
+Microservices
 
-<a href="https://www.linkedin.com/in/luisfereira/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
+CI/CD
 
-<a href="mailto:fereiraluis18051997@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail">
-</a>
+System Design
 
-
-
-</div>
-
----
-
-<div align="center">
-
-### *"El software no se trata únicamente de escribir código; se trata de construir productos confiables que generen impacto."*
-
-⭐ Gracias por visitar mi perfil.
-
-</div>
+Testing
 ```
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Actividad
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building software that is scalable, maintainable and focused on delivering real value."
+
+</div>
