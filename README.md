@@ -10,9 +10,9 @@ Actualmente trabajo principalmente con **React, Next.js, TypeScript, Node.js, Ne
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/TU-LINKEDIN) •
-[Portfolio](https://TU-PORTFOLIO.com) •
-[Email](mailto:tuemail@email.com)
+[LinkedIn](https://www.linkedin.com/in/luisfereira/) •
+
+[Email](mailto:fereiraluis18051997@gmail.com)
 
 </div>
 
