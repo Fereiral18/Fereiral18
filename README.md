@@ -1,8 +1,8 @@
 <div align="center">
 
-# Luis Ferreira
+# Hola 👋 Soy Luis Fereira
 
-### Full Stack Software Engineer
+### Software Engineer | Full Stack Developer
 
 Desarrollo aplicaciones web modernas enfocadas en escalabilidad, arquitectura limpia y una excelente experiencia de usuario.
 
